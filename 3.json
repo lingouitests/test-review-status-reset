@@ -5,6 +5,7 @@
        "collie": "A collie",
        "small_dogs": {
                "poodle": "A teacup poodle"
+              "poodle2": "A teacup poodle2"
        }
   }
 }
